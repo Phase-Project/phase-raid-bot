@@ -15,6 +15,15 @@
 | <img src="https://img.shields.io/badge/-Raid-5865F2?style=flat-square"> | Launch mass spam raids via interactive button panels |
 | <img src="https://img.shields.io/badge/-Interaction%20Raid-9B59B6?style=flat-square"> | Farm interactions automatically with smart clickers |
 | <img src="https://img.shields.io/badge/Spam-File%20Spam-brightgreen?style=for-the-badge"> | Send custom messages or files on repeat |
+| <img src="https://img.shields.io/badge/-Thug-E67E22?style=flat-square"> | Gay porn spamming for fun |
+| <img src="https://img.shields.io/badge/-Fake%20Nitro-3498DB?style=flat-square"> | Deploy fake nitro giveaways and hoaxes |
+| <img src="https://img.shields.io/badge/-Fake%20Giveaway-1ABC9C?style=flat-square"> | Host counterfeit giveaways |
+| <img src="https://img.shields.io/badge/-whois-9B59B6?style=flat-square"> | whois lookup |
+| <img src="https://img.shields.io/badge/-Ghost-E74C3C?style=flat-square"> | Ghost mention and ghost ping tools |
+| <img src="https://img.shields.io/badge/-DM%20Raid-2ECC71?style=flat-square"> | Direct message flooding tools |
+| <img src="https://img.shields.io/badge/-Ads-3498DB?style=flat-square"> | Automatic advertisement posting |
+| <img src="https://img.shields.io/badge/-Leaderboard-E67E22?style=flat-square"> | Track top raiders with JSON file persistence |
+| <img src="https://img.shields.io/badge/-Admin%20Tools-9B59B6?style=flat-square"> | Reload cogs, set global messages, blacklist servers/users |
 
 ---
 
