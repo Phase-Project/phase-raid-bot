@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/295873404?s=512" alt="Phase Raid Bot" width="200" height="200">
+  <img src="[https://avatars.githubusercontent.com/u/295873404](https://raw.githubusercontent.com/phaseworld-creator/phase-raid-bot/refs/heads/main/assets/phase.png)?s=512" alt="Phase Raid Bot" width="200" height="200">
 </p>
 
 <h1 align="center">Phase Raid Bot</h1>
@@ -34,8 +34,8 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-repo/PhaseRaid.git
-cd PhaseRaid
+git clone https://github.com/phaseworld-creator/phase-raid-bot
+cd phase-raid-bot
 
 # Create a virtual environment (standard venv)
 python -m venv .venv
@@ -54,36 +54,7 @@ pip install -r requirements.txt
 
 ### Configuration
 
-Copy the example config and fill in your values:
-
-```bash
-cp config.example.toml config.toml
-# Windows
-copy config.example.toml config.toml
-```
-
-> **Note:** The `[api]` section in `config.toml` is used for leaderboard syncing and command tracking. These features rely on the companion website. You do not need to configure `[api]` unless you are running your own instance of the [Phase Website](https://github.com/Phase-Opensource-Project/phase-website/).
-
-Edit `config.toml`:
-
-```toml
-TOKEN = "your-bot-token-here"
-owner_ids = [123456789012345678]
-
-[server]
-main_server = 0
-verified_role_id = 0
-
-[channels]
-log_channel_id = 0
-
-[messages]
-og_msg = """your default raid message here"""
-
-[api]
-url = "your-api-url"
-secret = "your-api-secret"
-```
+open config and fill in your values
 
 ### Running
 
