@@ -38,7 +38,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/phaseworld-creator/phase-raid-bot
+git clone https://github.com/phaseworld-creator/phase-raid-bot.git
 cd phase-raid-bot
 
 # Create a virtual environment (standard venv)
