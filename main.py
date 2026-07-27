@@ -5,7 +5,7 @@ import discord
 import sys as _sys
 from discord.ext import commands
 
-from core.config import TOKEN
+from core.config import TOKEN, WEBSITE
 from core.utils.checks import global_interaction_check
 from core.context import Context
 from core.utils.db import init_db
