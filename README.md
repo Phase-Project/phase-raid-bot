@@ -66,7 +66,7 @@ open config and fill in your values
 python main.py
 ```
 
-### What song you will NEAD to here if you will set the bot up
+### What song you will NEAD to hear if you will set the bot up
 
 <p align="center">
   <img src="https://scannables.scdn.co/uri/1638/spotify:track:5T7ywazdGIydr6JCW6t02j" alt="Phase Raid Bot" width="200" height="200">
