@@ -64,13 +64,3 @@ open config and fill in your values
 ```bash
 python main.py
 ```
-
----
-
-## Tech Stack
-
-- [discord.py](https://discordpy.readthedocs.io/) — Discord API wrapper
-- [LMDB](https://lmdb.readthedocs.io/) — High-performance leaderboard storage
-- [aiohttp](https://docs.aiohttp.org/) — Async HTTP for API posting
-
-> **uv** (optional) — Fast package & venv management, if you prefer it over standard `venv`/`pip`
