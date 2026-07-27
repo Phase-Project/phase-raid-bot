@@ -11,7 +11,6 @@ from core.context import Context
 from core.utils.db import init_db
 from core.utils.leaderboard import load_leaderboard, track_command
 from core.utils.logger import setup_logger
-from core.config import WEBSITES
 
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix="p", intents=intents)
