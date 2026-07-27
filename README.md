@@ -14,6 +14,8 @@
 |:--------|:------------|
 | <img src="https://img.shields.io/badge/-Raid-5865F2?style=flat-square"> | Launch mass spam raids via interactive button panels |
 | <img src="https://img.shields.io/badge/-Interaction%20Raid-9B59B6?style=flat-square"> | Farm interactions automatically with smart clickers |
+| <img src="https://img.shields.io/badge/Spam-File%20Spam-brightgreen?style=for-the-badge"> | Send custom messages or files on repeat |
+
 ---
 
 ## Installation
