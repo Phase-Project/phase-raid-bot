@@ -11,15 +11,16 @@ from core.context import Context
 from core.utils.db import init_db
 from core.utils.leaderboard import load_leaderboard, track_command
 from core.utils.logger import setup_logger
+from core.config import WEBSITES
 
 intents = discord.Intents.all()
-bot = commands.Bot(command_prefix="z", intents=intents)
+bot = commands.Bot(command_prefix="p", intents=intents)
 bot.context_cls = Context
 logger = setup_logger()
 bot.tree.interaction_check = global_interaction_check
 
 bot.color = 0xff0000
-bot.prefix = "z"
+bot.prefix = "p"
 
 
 def get_global_total_commands() -> int:
@@ -29,9 +30,9 @@ def get_global_total_commands() -> int:
 
 async def update_bot_status():
     activity = discord.Activity(
-        name=f"phase.breed.rip | {get_global_total_commands()} raids...",
+        name=f"{WEBSITE} | {get_global_total_commands()} raids...",
         type=discord.ActivityType.streaming,
-        url="https://twitch.tv/voby7"
+        url="https://twitch.tv/diddy"
     )
     await bot.change_presence(activity=activity)
 
