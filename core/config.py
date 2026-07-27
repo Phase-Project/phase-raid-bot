@@ -1,0 +1,15 @@
+TOKEN = ""
+OWNER_IDS = []
+OWNER_BLACKLIST_BYPASS = True
+PHASE_INVITE = "https://discord.gg/XXXXXXXXXX"
+MAIN_SERVER_ID = 0
+VERIFIED_ROLE_ID = 0
+LOG_CHANNEL_ID = 0
+DENY_EMOJI = "<:no:1510551574781497364>"
+SUCCESS_EMOJI = "<:yes:1510551658852126810>"
+WARN_EMOJI = "<:brown_raised:1503406232642261213>"
+WEBSITE = "phaseworld.top"
+BANNER = "https://raw.githubusercontent.com/phaseworld-creator/phase-raid-bot/refs/heads/main/assets/banner.gif"
+ICON = "https://raw.githubusercontent.com/phaseworld-creator/phase-raid-bot/refs/heads/main/assets/phase.png"
+NITRO = "https://raw.githubusercontent.com/phaseworld-creator/phase-raid-bot/refs/heads/main/assets/nitro.gif"
+SERVER_NAME = ""
