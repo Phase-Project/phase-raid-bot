@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/295873404](https://raw.githubusercontent.com/phaseworld-creator/phase-raid-bot/refs/heads/main/assets/phase.png)?s=512" alt="Phase Raid Bot" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/phaseworld-creator/phase-raid-bot/refs/heads/main/assets/phase.png?s=512" alt="Phase Raid Bot" width="200" height="200">
 </p>
 
 <h1 align="center">Phase Raid Bot</h1>
