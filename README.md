@@ -10,18 +10,10 @@
 
 ## Features
 
-- **Raid** — Launch mass spam raids via interactive button panels
-- **Interaction Raid** — Farm interactions automatically with smart clickers
-- **Spam / File Spam** — Send custom messages or files on repeat
-- **Thug** — Gay porn spamming for fun
-- **Fake Nitro** — Deploy fake nitro giveaways and hoaxes
-- **Fake Giveaway** — Host counterfeit giveaways
-- **Ghost** — Ghost mention and ghost ping tools
-- **DM Raid** — Direct message flooding tools
-- **Ads** — Automatic advertisement posting
-- **Leaderboard** — Track top raiders with JSON file persistence
-- **Admin Tools** — Reload cogs, set global messages, blacklist servers/users
-
+| command | description |
+|:--------|:------------|
+| <img src="https://img.shields.io/badge/-Raid-5865F2?style=flat-square"> | Launch mass spam raids via interactive button panels |
+| <img src="https://img.shields.io/badge/-Interaction%20Raid-9B59B6?style=flat-square"> | Farm interactions automatically with smart clickers |
 ---
 
 ## Installation
