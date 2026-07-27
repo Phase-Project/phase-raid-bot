@@ -5,6 +5,7 @@
 <h1 align="center">Phase Raid Bot</h1>
 
 <p align="center">A powerful Discord bot built with discord.py for raiding, spamming, and destorying servers.</p>
+<p align="center">Made For easy Customization</p>
 
 ---
 
